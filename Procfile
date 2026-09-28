@@ -1,2 +1,3 @@
-web: gunicorn appBcd:appBcd
+web: gunicorn appBcd:app
+
 
