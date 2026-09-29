@@ -1,3 +1,3 @@
-web: gunicorn appBcd:app
+web: gunicorn app:app
 
 
